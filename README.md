@@ -1,5 +1,5 @@
 # IPL_Match_Analysis_Tableau
 
 Tableau Public dashboard link:
-https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no
+https://public.tableau.com/views/IPL_MATCH_ANALYSIS/Toss_vs_outcome?:language=en-US&:display_count=n&:origin=viz_share_link
 
